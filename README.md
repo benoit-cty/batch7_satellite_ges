@@ -1,7 +1,5 @@
 # OCO-2 CO<sub>2</sub> peak detector
 
-
-
 ## General presentation
 > The goal of our project is to localize CO<sub>2</sub> emissions on Earth based on the the carbon concentration data measured by the OCO-2 Satellite from the NASA. 
 
@@ -11,8 +9,6 @@ We are working with:- Matthieu Porte, from IGN who submit the projet- Marie Heck
 ## What we have as input
 
 **1/ OCO-2 Satellite data**
-
-
 
 The OCO-2 Satellite (Orbiting Carbon Observatory) from the NASA orbits around Earth and measures the CO<sub>2</sub> concentration in the atmosphere.  
 
